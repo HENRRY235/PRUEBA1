@@ -1,0 +1,30 @@
+#EXTM3U
+
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", ATB
+
+http://186.121.206.197/live/daniel/index.m3u8
+
+
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", TVB DEPORTES
+
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+
+
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", PAT LA PAZ
+
+http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
+
+
+#EXTINF: -1 , UNITEL
+
+http://136.243.3.70:1935/Unitel/Unitel/chunklist_DVR.m3u8?checkedby:hlscat.com
+
+
+#EXTINF: -1 , MTV
+
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8?checkedby:hlscat.com
+
+
+#EXTINF: -1 , MTV2
+
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?checkedby:hlscat.com
