@@ -1,0 +1,13 @@
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", ATB
+
+http://186.121.206.197/live/daniel/index.m3u8
+
+
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", TVB DEPORTES
+
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+
+
+#EXTINF: -1 tvg-logo = "http://127.0.0.1/" group-title = "Sin categoría", PAT LA PAZ
+
+http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
